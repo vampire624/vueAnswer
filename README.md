@@ -1,6 +1,6 @@
 # answer
 
-> A Vue.js project
+> A  tiny Vue.js project, witch runs in phones with simple question and answer. in the last page, it's able to calculate sum score！
 
 ## Build Setup
 
